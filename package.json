@@ -1,0 +1,32 @@
+{
+  "name": "dorothymoore-ini",
+  "version": "1.0.0",
+  "description": "Dorothymoore-ini is a Node.js module for quantum computing operations. It provides several functions to work with quantum circuits and states.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dorothymoore7102387/dorothymoore-ini"
+  },
+  "dependencies": {
+	  "solodop": "1.0.0",
+"jakea": "1.0.0",
+"layer-v22": "1.0.0",
+"pologovsemen": "1.0.0",
+"donaldrodriguez": "1.0.0",
+"farmaniyah": "1.0.0",
+"zheminivan": "1.0.0",
+"christopherlee-bit": "1.0.0",
+    "lodash": "^4.17.21",
+    "qiskit": "^0.3.0",
+    "quantum-math": "^1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorothymoore7102387/dorothymoore-ini/issues"
+  },
+  "homepage": "https://github.com/dorothymoore7102387/dorothymoore-ini#readme"
+}
